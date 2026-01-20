@@ -1,2 +1,2 @@
 # Skill_Match
-This application matches your resume with description provide
+This application matches your resume with description provided
